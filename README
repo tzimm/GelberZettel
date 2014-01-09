@@ -1,0 +1,12 @@
+Gelber Zettel:
+The Idea for this program originates on my first program I've written in Visual Basic when I was a little boy.
+It is basically a simplified form of gedit that saves changeds on the fly: A basic text editor that stays in the foreground and saves notes to the skript location.
+
+When you usually have one open text file to take notes or use as an extended clipboard this program is for you.
+
+Double click on the tab-bar with your left mouse button to create a new tab. 
+Double click on the tab-bar with your right mouse button to delete the current active tab.
+
+GelberZettel.py is the main python file
+
+GelberZettelGui.py are the qt design files created from GelberZettel.ui with pyside-uic
